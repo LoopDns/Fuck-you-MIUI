@@ -18,8 +18,11 @@
 #禁用后将无法云扫描病毒
 127.0.0.1 etl-xlmc-ssl.sandai.net
 127.0.0.1 cn.app.chat.xiaomi.net
-127.0.0.1 pdc.micloud.xiaomi.net
+#疑似云盘，自行决定
+#127.0.0.1 pdc.micloud.xiaomi.net
 127.0.0.1 a.hl.mi.com
+#禁用后可能会导致小米浏览器无法下载APK，因为有垃圾推广安装
 127.0.0.1 idm.api.io.mi.com
 127.0.0.1 api.jr.mi.com
 127.0.0.1 ssl-cdn.static.browser.mi-img.com
+127.0.0.1 flash.sec.miui.com
