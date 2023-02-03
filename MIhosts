@@ -9,6 +9,8 @@
 0.0.0.0 miav-cse.avlyun.com
 0.0.0.0 miav-cse.avlyun.com
 0.0.0.0 api.installer.xiaomi.com
+0.0.0.0 tmfsdk.m.qq.com
+0.0.0.0 a0.app.xiaomi.com
 #禁用后将无法云扫描病毒
 127.0.0.1 etl-xlmc-ssl.sandai.net
 127.0.0.1 cn.app.chat.xiaomi.net
