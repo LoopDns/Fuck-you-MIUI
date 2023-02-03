@@ -1,0 +1,12 @@
+#此处主要屏蔽小米云扫描组件
+0.0.0.0 log.avlyun.sec.intl.miui.com
+0.0.0.0 update.avlyun.sec.miui.com
+0.0.0.0 ixav-cse.avlyun.com
+0.0.0.0 logupdate.avlyun.sec.miui.com
+0.0.0.0 miui-fxcse.avlyun.com
+0.0.0.0 sdkconf.avlyun.com
+0.0.0.0 sdkconf.avlyun.com
+0.0.0.0 miav-cse.avlyun.com
+0.0.0.0 etl-xlmc-ssl.sandai.net
+0.0.0.0 miav-cse.avlyun.com
+0.0.0.0 api.installer.xiaomi.com
