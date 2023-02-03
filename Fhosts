@@ -1,0 +1,118 @@
+# MIUI 安装检查
+127.0.0.1 api.installer.xiaomi.com
+
+#OneTrack & Analytics & Ad
+127.0.0.1 tracking.miui.com
+127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 diagnosis.ad.xiaomi.com
+127.0.0.1 log.ad.xiaomi.com
+127.0.0.1 m.track.ad.xiaomi.com
+127.0.0.1 sdkconfig.ad.xiaomi.com
+
+# 小爱同学
+127.0.0.1 tracker.ai.xiaomi.com
+
+# 好像是小米自己的引擎 还在内测
+127.0.0.1 mazu.sec.miui.com
+
+# avl
+127.0.0.1 miui-fxcse.avlyun.com
+127.0.0.1 sdkconf.avlyun.com
+127.0.0.1 sdkconf.avlyun.com
+127.0.0.1 miav-cse.avlyun.com
+127.0.0.1 update.avlyun.sec.miui.com
+127.0.0.1 ixav-cse.avlyun.com
+127.0.0.1 logupdate.avlyun.sec.miui.com
+
+# 流量更新、病毒白名单
+127.0.0.1 api.sec.miui.com
+
+# 禁用后无法开启部分权限
+#127.0.0.1 srv.sec.miui.com
+
+#权限云控 好像只针对部分机型？
+127.0.0.1 auth.be.sec.miui.com
+
+#反诈
+127.0.0.1 flash.sec.miui.com
+
+#快应用
+127.0.0.1 api.hybrid.xiaomi.com
+
+#浏览器 热点下滑等
+127.0.0.1 o2o.api.xiaomi.com
+127.0.0.1 api.browser.miui.com
+127.0.0.1 ssl-cdn.static.browser.mi-img.com
+127.0.0.1 security.browser.miui.com
+127.0.0.1 hot.browser.miui.com
+127.0.0.1 r.browser.miui.com
+127.0.0.1 hd.browser.miui.com
+127.0.0.1 c3-cache.browser.miui.com
+127.0.0.1 api-ipv4.browser.miui.com
+
+# 系统应用检查更新 e.g 下载管理
+127.0.0.1 api.developer.xiaomi.com
+
+# 禁用后无法加载手机管家App内的图标
+#127.0.0.1 keybag.id.mi.com
+
+#??? 云控?
+127.0.0.1 qsb.browser.miui.srv
+127.0.0.1 rom.pt.miui.srv
+127.0.0.1 ccc.sys.miui.com
+127.0.0.1 jupiter.sys.miui.com
+127.0.0.1 metok.sys.miui.com
+
+# 其他系统应用的垃圾sdk
+# qq扫描 bugly 阅读 快应用等api
+# 可能会影响部分功能 
+127.0.0.1 tmfsdk.m.qq.com
+127.0.0.1 tmfsdk4.m.qq.com
+127.0.0.1 tbm.snssdk.com
+127.0.0.1 othstr.beacon.qq.com
+127.0.0.1 tools.3g.qq.com
+127.0.0.1 tmfsdktcp.m.qq.com
+127.0.0.1 h.trace.qq.com
+127.0.0.1 hub5pn.wap.sandai.net
+127.0.0.1 tpstelemetry.tencent.com
+127.0.0.1 pssn.alicdn.com
+127.0.0.1 tmfsdktcpv4.m.qq.com
+127.0.0.1 tmeadcomm.y.qq.com
+127.0.0.1 tangram.e.qq.com
+127.0.0.1 us.l.qq.com
+127.0.0.1 tdid.m.qq.com
+127.0.0.1 h.trace.qq.com
+127.0.0.1 api.yky.qq.com
+127.0.0.1 sdk.e.qq.com
+127.0.0.1 android.bugly.qq.com
+127.0.0.1 toblog.ctobsnssdk.com
+127.0.0.1 tobapplog.ctobsnssdk.com
+127.0.0.1 cfg.imtt.qq.com
+127.0.0.1 statres.quickapp.cn
+127.0.0.1 qr.quickapp.cn
+127.0.0.1 hybrid.xiaomi.com
+127.0.0.1 hybrid.miui.com
+127.0.0.1 s1.irs03.com
+127.0.0.1 up.cm.ksmobile.com
+127.0.0.1 dl.cm.ksmobile.com
+127.0.0.1 dw-online.ksosoft.com
+127.0.0.1 zzhc.vnet.cn
+127.0.0.1 beacon-api.aliyuncs.com
+127.0.0.1 mpush-api.aliyun.com
+127.0.0.1 ug.snssdk.com
+127.0.0.1 t7z.cupid.iqiyi.com
+127.0.0.1 worldwide.sogou.com
+127.0.0.1 www.pangolin-dsp-toutiao.com
+127.0.0.1 master.wap.dphub.sandai.net
+127.0.0.1 hub5u.wap.sandai.net
+127.0.0.1 idx.m.hub.sandai.net
+127.0.0.1 tw13b093.sandai.net
+127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
+127.0.0.1 test.ad.xiaomi.com
+127.0.0.1 uploadlog.xlmc.sandai.net
+127.0.0.1 t03-api.xlmc.xunlei.com
+127.0.0.1 pre.api.tw06.xlmc.sandai.net
+127.0.0.1 guid-xldw-ssl.n0808.com
+
+# unknown
+127.0.0.1 data.sec.miui.com
