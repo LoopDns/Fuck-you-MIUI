@@ -10,7 +10,7 @@
 0.0.0.0 miav-cse.avlyun.com
 0.0.0.0 api.installer.xiaomi.com
 0.0.0.0 tmfsdk.m.qq.com
-0.0.0.0 a0.app.xiaomi.com
+
 #屏蔽后无法矫正流量，但是也用来下载白名单
 #0.0.0.0 api.sec.miui.com
 0.0.0.0 adv.sec.miui.com
