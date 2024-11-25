@@ -8,9 +8,11 @@
 127.0.0.1 log.ad.xiaomi.com
 127.0.0.1 m.track.ad.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 api.ad.xiaomi.com
 
 # 小爱同学
 127.0.0.1 tracker.ai.xiaomi.com
+127.0.0.1 grayconfig.ai.xiaomi.com
 
 # 好像是小米自己的引擎 还在内测
 127.0.0.1 mazu.sec.miui.com
@@ -49,12 +51,18 @@
 127.0.0.1 hd.browser.miui.com
 127.0.0.1 c3-cache.browser.miui.com
 127.0.0.1 api-ipv4.browser.miui.com
-
+127.0.0.1 qsb.browser.miui.com
+127.0.0.1 sentry.d.xiaomi.net
+127.0.0.1 global-search.browser.miui.com
+127.0.0.1 global.search.xiaomi.net
 # 系统应用检查更新 e.g 下载管理
 127.0.0.1 api.developer.xiaomi.com
+127.0.0.1 update.miui.com
 
 # 禁用后无法加载手机管家App内的图标
 #127.0.0.1 keybag.id.mi.com
+# HTML查看器
+127.0.0.1 port.sec.miui.com
 
 #??? 云控?
 127.0.0.1 qsb.browser.miui.srv
@@ -116,3 +124,6 @@
 
 # unknown
 127.0.0.1 data.sec.miui.com
+#xiaomi音乐广告
+127.0.0.1 pgdt.gtimg.cn
+127.0.0.1 *.rdt.tfogc.com
