@@ -14,6 +14,7 @@
 127.0.0.1 tracker.ai.xiaomi.com
 127.0.0.1 grayconfig.ai.xiaomi.com
 
+
 # 好像是小米自己的引擎 还在内测
 127.0.0.1 mazu.sec.miui.com
 
@@ -25,6 +26,9 @@
 127.0.0.1 update.avlyun.sec.miui.com
 127.0.0.1 ixav-cse.avlyun.com
 127.0.0.1 logupdate.avlyun.sec.miui.com
+127.0.0.1 virus-engine.sec.miui.com
+127.0.0.1 update.avlyun.sec.miui.com
+127.0.0.1 flash.sec.miui.com
 
 # 流量更新、病毒白名单
 127.0.0.1 api.sec.miui.com
